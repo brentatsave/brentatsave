@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brentatsave
 - 👀 I’m interested in all the things
-- 🌱 I’m currently learning Synapse / ADF / Azure in general
+- 🌱 I’m currently learning Synapse / ADF / Azure IaC / Azure App Service / Azure in general
 - 💞️ I’m looking to collaborate on all the things
 
 <!---
